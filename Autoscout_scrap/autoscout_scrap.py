@@ -9,7 +9,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 chrome_options = webdriver.ChromeOptions()  
 #chrome_options.add_argument('--headless')     
-service = Service(executable_path=r"C:/Users/mmk95/OneDrive/Asztali gép/chromedriver.exe")
+service = Service(executable_path=r"Your_Path/chromedriver.exe")
 driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.maximize_window()
 
