@@ -18,7 +18,6 @@ ws = wb.active
 
 xpath_exist = '//*[@id="__next"]/div/div/div[5]/div[3]/main/header/div[1]/div[1]/div[1]'
 csv_file_path = f'cars.csv'
-# Function to check if an element exists
 def check_element_exists(driver, xpath_exist):
     try:
         driver.find_element(By.XPATH, xpath_exist)
