@@ -1,0 +1,37 @@
+[
+    {
+      "_id": {
+        "$oid": "66524f7d0dc01ce18c86d2d1"
+      },
+      "Autó": "Audi RS4",
+      "Rövid leírás": {
+        "$numberDouble": "NaN"
+      },
+      "Ár": "€ 39 900,-",
+      "Óra állás": "188 000 km",
+      "Váltó": "Sebességváltó",
+      "Évjárat": "04/2001",
+      "Üzemanyag": "Benzin",
+      "Teljesítmény": "280 kW (381 LE)",
+      "Értékesítő": "Damm Fahrzeugtechnik",
+      "Hely": "Thomas Damm • DE-63505 Langenselbold",
+      "Link": "https://www.autoscout24.hu/ajanlat/audi-rs4-benzin-ezuest-93209cc5-29aa-475a-bdce-bb529e27df90"
+    },
+    {
+      "_id": {
+        "$oid": "66524f7d0dc01ce18c86d2d0"
+      },
+      "Autó": "Audi RS4",
+      "Rövid leírás": "RS4 Avant 2.7",
+      "Ár": "€ 60 000,-",
+      "Óra állás": "2 500 km",
+      "Váltó": "Sebességváltó",
+      "Évjárat": "08/2000",
+      "Üzemanyag": "Benzin",
+      "Teljesítmény": "280 kW (381 LE)",
+      "Értékesítő": "Magánszemély",
+      "Hely": "IT-42035 castelnovo ne' monti",
+      "Link": "https://www.autoscout24.hu/ajanlat/audi-rs4-rs4-avant-2-7-benzin-szuerke-7ce02f8b-3fe2-499a-9184-caec6b2afd60"
+    }
+  ]
+  
