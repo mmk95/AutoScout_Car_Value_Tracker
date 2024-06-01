@@ -9,9 +9,7 @@ db = client['mydatabase']
 
 collection = db['mycollection']
 
-
 df = pd.read_excel('merged_file.xlsx')
-
 
 data = df.to_dict(orient='records')
 
